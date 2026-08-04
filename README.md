@@ -196,7 +196,7 @@ Ao longo da minha carreira, participei da migração de sistemas legados para ve
 ## Contribution Graph
 
 <div align="center">
-<img src="https://ghchart.rshah.org/6C63FF/mateusgabriel042" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mateusgabriel042&bg_color=00000000&color=6C63FF&line=00D9FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 
