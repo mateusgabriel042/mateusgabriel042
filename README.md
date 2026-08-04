@@ -18,28 +18,48 @@
 
 ---
 
-## About
+<div align="center">
 
-**Systems Analyst and Developer | Full Stack PHP Developer | Laravel | React | Next.js**
+## About Me / Sobre Mim
+
+[![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=flat-square&logo=php&logoColor=white)]()
+[![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?style=flat-square&logo=laravel&logoColor=white)]()
+[![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=white)]()
+[![Next.js](https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=nextdotjs&logoColor=white)]()
+
+</div>
+
+> **Systems Analyst & Full Stack Developer**
+> Specialized in scalable web application architecture, SaaS platforms, and API integrations.
+
+<br/>
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**English**
+### English
 
-Full Stack Developer with 6 years of experience in web systems development, working across requirements gathering and analysis, architecture, implementation, testing, integrations, and maintenance of scalable applications. I have experience developing high-availability systems, e-commerce platforms, ERPs, SaaS platforms, and third-party service integrations, always applying software engineering best practices with a focus on performance, security, and user experience.
+Full Stack Developer with **6+ years of experience** building high-performance web applications, handling everything from architectural design to deployment and maintenance.
 
-Throughout my career, I have participated in migrating legacy systems to modern versions of Laravel, developing multi-tenancy architectures, creating REST and GraphQL APIs, as well as building applications using React.js and Next.js.
+**Key Expertise:**
+* **Architectures:** Multi-tenancy, SaaS, e-commerce, and high-availability ERPs.
+* **Modernization:** Legacy system migrations to modern **Laravel** environments.
+* **APIs & Frontend:** REST & GraphQL APIs integrated with **React** & **Next.js**.
+* **Best Practices:** Focus on security, code scalability, and optimized UX.
 
 </td>
 <td valign="top" width="50%">
 
-**Português**
+### Português
 
-Desenvolvedor Full Stack com 6 anos de experiência no desenvolvimento de sistemas web, atuando em levantamento e análise de requisitos, arquitetura, implementação, testes, integrações e manutenção de aplicações escaláveis. Tenho experiência no desenvolvimento de sistemas de alta disponibilidade, plataformas de e-commerce, ERPs, plataformas SaaS e integrações com serviços de terceiros, sempre aplicando boas práticas de engenharia de software com foco em performance, segurança e experiência do usuário.
+Desenvolvedor Full Stack com **6+ anos de experiência** criando sistemas web de alta performance, atuando desde a arquitetura até o deploy e manutenção.
 
-Ao longo da minha carreira, participei da migração de sistemas legados para versões modernas do Laravel, desenvolvimento de arquiteturas multi-tenant, criação de APIs REST e GraphQL, além da construção de aplicações utilizando React.js e Next.js.
+**Principais Atuações:**
+* **Arquiteturas:** Multi-tenant, SaaS, e-commerces e ERPs de alta disponibilidade.
+* **Modernização:** Migração de sistemas legados para versões atuais do **Laravel**.
+* **APIs & Frontend:** APIs REST & GraphQL integradas a **React** e **Next.js**.
+* **Boas Práticas:** Foco em segurança, escalabilidade de código e UX otimizada.
 
 </td>
 </tr>
@@ -50,62 +70,33 @@ Ao longo da minha carreira, participei da migração de sistemas legados para ve
 ## Skill Level
 
 ### Backend
-
-<p>
-<img src="https://progress-bar.xyz/92/?title=PHP+&width=220&color=6C63FF&suffix=%25" />
-<br/>
-<img src="https://progress-bar.xyz/95/?title=Laravel&width=220&color=6C63FF&suffix=%25" />
-<br/>
-<img src="https://progress-bar.xyz/90/?title=Livewire&width=220&color=6C63FF&suffix=%25" />
-<br/>
-<img src="https://progress-bar.xyz/70/?title=Node.js&width=220&color=6C63FF&suffix=%25" />
-<br/>
-<img src="https://progress-bar.xyz/100/?title=REST+APIs+&width=220&color=6C63FF&suffix=%25" />
-<br/>
-<img src="https://progress-bar.xyz/100/?title=GraphQL+&width=220&color=6C63FF&suffix=%25" />
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-92%25-6C63FF?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-95%25-6C63FF?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Livewire-90%25-6C63FF?style=for-the-badge&logo=livewire&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-70%25-6C63FF?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-100%25-6C63FF?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-100%25-6C63FF?style=for-the-badge&logo=graphql&logoColor=white" />
 </p>
 
 ### Frontend
-
-<p>
-<img src="https://progress-bar.xyz/88/?title=JavaScript&width=220&color=6C63FF&suffix=%25" />
-<br/>
-<img src="https://progress-bar.xyz/80/?title=TypeScript&width=220&color=6C63FF&suffix=%25" />
-<br/>
-<img src="https://progress-bar.xyz/85/?title=React&width=220&color=6C63FF&suffix=%25" />
-<br/>
-<img src="https://progress-bar.xyz/80/?title=Next.js&width=220&color=6C63FF&suffix=%25" />
-<br/>
-<img src="https://progress-bar.xyz/70/?title=Vue+%2F+Inertia&width=220&color=6C63FF&suffix=%25" />
-<br/>
-<img src="https://progress-bar.xyz/100/?title=Tailwind+CSS&width=220&color=6C63FF&suffix=%25" />
-<br/>
-<img src="https://progress-bar.xyz/100/?title=Bootstrap&width=220&color=6C63FF&suffix=%25" />
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-88%25-6C63FF?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-80%25-6C63FF?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-85%25-6C63FF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-80%25-6C63FF?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-70%25-6C63FF?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-100%25-6C63FF?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-100%25-6C63FF?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ### Databases & Infra
-
-<p>
-<img src="https://progress-bar.xyz/90/?title=MySQL+&width=220&color=6C63FF&suffix=%25" />
-<br/>
-<img src="https://progress-bar.xyz/82/?title=PostgreSQL&width=220&color=6C63FF&suffix=%25" />
-<br/>
-<img src="https://progress-bar.xyz/75/?title=Redis&width=220&color=6C63FF&suffix=%25" />
-<br/>
-<img src="https://progress-bar.xyz/80/?title=Docker&width=220&color=6C63FF&suffix=%25" />
-<br/>
-<img src="https://progress-bar.xyz/80/?title=AWS+&width=220&color=6C63FF&suffix=%25" />
-</p>
-
----
-
-### DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,jenkins,aws,postman,jest" />
-  <img height="48" src="https://cdn.simpleicons.org/swagger/85EA2D" />
-  <img height="48" src="https://cdn.simpleicons.org/jira/0052CC" />
-  <img height="48" src="https://cdn.simpleicons.org/clickup/7B68EE" />
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-90%25-6C63FF?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-82%25-6C63FF?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-75%25-6C63FF?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-80%25-6C63FF?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-80%25-6C63FF?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </p>
 
 ---
@@ -126,6 +117,15 @@ Ao longo da minha carreira, participei da migração de sistemas legados para ve
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
+</p>
+
+## DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,jenkins,aws,postman,jest" />
+  <img height="48" src="https://cdn.simpleicons.org/swagger/85EA2D" />
+  <img height="48" src="https://cdn.simpleicons.org/jira/0052CC" />
+  <img height="48" src="https://cdn.simpleicons.org/clickup/7B68EE" />
 </p>
 
 ---
