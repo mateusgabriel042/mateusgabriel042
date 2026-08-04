@@ -12,7 +12,7 @@ Building scalable applications with Laravel, React and Next.js.
 
 ---
 
-## 🧭 About
+## About
 
 **Systems Analyst and Developer | Full Stack PHP Developer | Laravel | React | Next.js**
 
@@ -20,7 +20,7 @@ Building scalable applications with Laravel, React and Next.js.
 <tr>
 <td valign="top" width="50%">
 
-**🇺🇸 English**
+**English**
 
 Full Stack Developer with 6 years of experience in web systems development, working across requirements gathering and analysis, architecture, implementation, testing, integrations, and maintenance of scalable applications. I have experience developing high-availability systems, e-commerce platforms, ERPs, SaaS platforms, and third-party service integrations, always applying software engineering best practices with a focus on performance, security, and user experience.
 
@@ -29,7 +29,7 @@ Throughout my career, I have participated in migrating legacy systems to modern 
 </td>
 <td valign="top" width="50%">
 
-**🇧🇷 Português**
+**Português**
 
 Desenvolvedor Full Stack com 6 anos de experiência no desenvolvimento de sistemas web, atuando em levantamento e análise de requisitos, arquitetura, implementação, testes, integrações e manutenção de aplicações escaláveis. Tenho experiência no desenvolvimento de sistemas de alta disponibilidade, plataformas de e-commerce, ERPs, plataformas SaaS e integrações com serviços de terceiros, sempre aplicando boas práticas de engenharia de software com foco em performance, segurança e experiência do usuário.
 
@@ -41,19 +41,19 @@ Ao longo da minha carreira, participei da migração de sistemas legados para ve
 
 ---
 
-## 💻 Languages
+## Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=php,js,ts,nodejs" />
 </p>
 
-## 🧩 Frameworks
+## Frameworks
 
 <p>
 <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,vue" />
 </p>
 
-## 🗄️ Databases
+## Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
@@ -61,7 +61,7 @@ Ao longo da minha carreira, participei da migração de sistemas legados para ve
 
 ---
 
-## 🔌 API Integrations
+## API Integrations
 
 <p>
 <img height="48" src="https://cdn.simpleicons.org/google/4285F4" />
@@ -81,7 +81,7 @@ Ao longo da minha carreira, participei da migração de sistemas legados para ve
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 <table>
 <tr>
@@ -108,7 +108,7 @@ Ao longo da minha carreira, participei da migração de sistemas legados para ve
 
 ---
 
-## 🛠️ DevOps & Tools
+## DevOps & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,jenkins,aws,postman,jest" />
@@ -120,26 +120,24 @@ Ao longo da minha carreira, participei da migração de sistemas legados para ve
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=tokyo-night&hide_border=true"/>
-
-## 🔥 Streak
+## Contribution Graph
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
+
+> Nota: o [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) não gera gráfico de contribuição diretamente, então esse card usa o [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) com o mesmo tema `tokyo-night` para manter a identidade visual consistente com os cards acima.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -182,7 +180,7 @@ Modern e-commerce platform with complete administration.
 
 ---
 
-## 🔗 Connect
+## Connect
 
 <p>
 <a href="https://linkedin.com/in/SEU">
