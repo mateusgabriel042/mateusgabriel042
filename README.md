@@ -196,11 +196,7 @@ Ao longo da minha carreira, participei da migração de sistemas legados para ve
 ## Contribution Graph
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusgabriel042/mateusgabriel042/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusgabriel042/mateusgabriel042/output/github-contribution-grid-snake.svg">
-  <img alt="Snake Game" src="https://raw.githubusercontent.com/mateusgabriel042/mateusgabriel042/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://ghchart.rshah.org/6C63FF/mateusgabriel042" alt="Contribution Graph"/>
 </div>
 
 
