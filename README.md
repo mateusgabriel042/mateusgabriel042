@@ -63,13 +63,6 @@ Ao longo da minha carreira, participei da migração de sistemas legados para ve
 
 ## API Integrations
 
-<p>
-<img height="48" src="https://cdn.simpleicons.org/google/4285F4" />
-<img height="48" src="https://cdn.simpleicons.org/openai/FFFFFF" />
-<img height="48" src="https://cdn.simpleicons.org/mercadopago/00B1EA" />
-<img height="48" src="https://cdn.simpleicons.org/swagger/85EA2D" />
-</p>
-
 | Integration |
 |------------|
 | Google APIs |
@@ -185,8 +178,5 @@ Modern e-commerce platform with complete administration.
 <p>
 <a href="https://linkedin.com/in/SEU">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-<a href="https://mateusgabriel.vercel.app">
-<img height="48" src="https://cdn.simpleicons.org/vercel/FFFFFF" />
 </a>
 </p>
