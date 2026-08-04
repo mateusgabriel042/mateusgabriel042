@@ -188,9 +188,8 @@ Ao longo da minha carreira, participei da migração de sistemas legados para ve
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=FOLLOWERS&color=6C63FF&logo=github&logoColor=white&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmateusgabriel042"/>
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=PUBLIC%20REPOS&color=00D9FF&logo=github&logoColor=white&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmateusgabriel042"/>
-<img src="https://img.shields.io/github/last-commit/mateusgabriel042/mateusgabriel042?style=for-the-badge&label=LAST%20COMMIT&color=6C63FF&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/github/followers/mateusgabriel042?style=for-the-badge&label=FOLLOWERS&color=6C63FF&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/github/last-commit/mateusgabriel042/mateusgabriel042?style=for-the-badge&label=LAST%20COMMIT&color=00D9FF&logo=github&logoColor=white"/>
 
 </div>
 
