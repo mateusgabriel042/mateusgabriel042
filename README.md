@@ -99,6 +99,17 @@ Ao longo da minha carreira, participei da migração de sistemas legados para ve
 
 ---
 
+## DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,jenkins,aws,postman,jest" />
+  <img height="48" src="https://cdn.simpleicons.org/swagger/85EA2D" />
+  <img height="48" src="https://cdn.simpleicons.org/jira/0052CC" />
+  <img height="48" src="https://cdn.simpleicons.org/clickup/7B68EE" />
+</p>
+
+---
+
 ## Languages
 
 <p>
@@ -156,31 +167,6 @@ Ao longo da minha carreira, participei da migração de sistemas legados para ve
 <td>Software Architecture</td>
 </tr>
 </table>
-
-**Practice maturity**
-
-<p>
-<img src="https://progress-bar.xyz/90/?title=Clean+Code+%2F+SOLID&width=220&color=6C63FF&suffix=%25" />
-<br/>
-<img src="https://progress-bar.xyz/88/?title=Multi-tenancy&width=220&color=6C63FF&suffix=%25" />
-<br/>
-<img src="https://progress-bar.xyz/75/?title=Automated+Testing&width=220&color=6C63FF&suffix=%25" />
-<br/>
-<img src="https://progress-bar.xyz/70/?title=CI%2FCD+&width=220&color=6C63FF&suffix=%25" />
-<br/>
-<img src="https://progress-bar.xyz/82/?title=Security&width=220&color=6C63FF&suffix=%25" />
-</p>
-
----
-
-## DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,jenkins,aws,postman,jest" />
-  <img height="48" src="https://cdn.simpleicons.org/swagger/85EA2D" />
-  <img height="48" src="https://cdn.simpleicons.org/jira/0052CC" />
-  <img height="48" src="https://cdn.simpleicons.org/clickup/7B68EE" />
-</p>
 
 ---
 
