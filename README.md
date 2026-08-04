@@ -99,7 +99,7 @@ Ao longo da minha carreira, participei da migração de sistemas legados para ve
 
 ---
 
-## DevOps & Tools
+### DevOps & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,jenkins,aws,postman,jest" />
