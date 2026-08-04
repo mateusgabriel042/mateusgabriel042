@@ -209,7 +209,9 @@ Ao longo da minha carreira, participei da migração de sistemas legados para ve
 ### [Dampa Digital ↗](https://www.dampadigital.com.br/)
 `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
 
-Landing page para agência de marketing digital de performance. Desenvolvida com foco em conversão para experts e infoprodutores.
+🇺🇸 Landing page for a performance-driven digital marketing agency. Built with a focus on conversion for experts and info-product creators.
+
+🇧🇷 Landing page para agência de marketing digital de performance. Desenvolvida com foco em conversão para experts e infoprodutores.
 
 </td>
 <td width="50%">
@@ -217,7 +219,9 @@ Landing page para agência de marketing digital de performance. Desenvolvida com
 ### [iHold Bank ↗](https://iholdbank.digital/)
 `PHP/Laravel` `React.js` `TypeScript` `PostgreSQL`
 
-Plataforma de infraestrutura financeira para impulsionar negócios. Soluções customizadas e eficientes para acesso a serviços financeiros.
+🇺🇸 Financial infrastructure platform to power businesses. Customized, efficient solutions for accessing financial services.
+
+🇧🇷 Plataforma de infraestrutura financeira para impulsionar negócios. Soluções customizadas e eficientes para acesso a serviços financeiros.
 
 </td>
 </tr>
@@ -227,7 +231,9 @@ Plataforma de infraestrutura financeira para impulsionar negócios. Soluções c
 ### [Maritimos ↗](https://maritimos.com.br/)
 `PHP/Laravel` `React.js` `MySQL` `Tailwind CSS` `API RESTful`
 
-Plataforma especializada em cruzeiros marítimos. Sistema completo de reservas online e gerenciamento de viagens.
+🇺🇸 Platform specialized in maritime cruises. Complete online booking and trip management system.
+
+🇧🇷 Plataforma especializada em cruzeiros marítimos. Sistema completo de reservas online e gerenciamento de viagens.
 
 </td>
 <td width="50%">
@@ -235,7 +241,9 @@ Plataforma especializada em cruzeiros marítimos. Sistema completo de reservas o
 ### [SnackPrompt ↗](https://snackprompt.com/)
 `Node/Vue.js` `Node.js` `AI` `MongoDB`
 
-Marketplace de prompts e agentes de IA. Biblioteca avançada de automações, workflows e frameworks para inteligência artificial.
+🇺🇸 Marketplace for AI prompts and agents. Advanced library of automations, workflows and frameworks for artificial intelligence.
+
+🇧🇷 Marketplace de prompts e agentes de IA. Biblioteca avançada de automações, workflows e frameworks para inteligência artificial.
 
 </td>
 </tr>
@@ -245,7 +253,9 @@ Marketplace de prompts e agentes de IA. Biblioteca avançada de automações, wo
 ### [IETÉ ↗](https://iete.com.br/)
 `Next.js` `TypeScript` `Tailwind CSS` `Vercel`
 
-Tecnologia descomplicada para transformar negócios. Soluções de software personalizadas que impulsionam resultados.
+🇺🇸 Uncomplicated technology to transform businesses. Custom software solutions that drive results.
+
+🇧🇷 Tecnologia descomplicada para transformar negócios. Soluções de software personalizadas que impulsionam resultados.
 
 </td>
 <td width="50%"></td>
@@ -258,16 +268,16 @@ Tecnologia descomplicada para transformar negócios. Soluções de software pers
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SEU">
+<a href="https://www.linkedin.com/in/mateus-gabriel-a64885144/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:SEUEMAIL@exemplo.com">
+<a href="mailto:mateusgabriel042@gmail.com">
   <img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/mateusgabriel042">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C63FF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C63FF&height=120&section=footer"/>
 
 </div>
